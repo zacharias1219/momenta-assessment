@@ -57,7 +57,7 @@ notebooks/
 
 ```bash
 # Clone repo
-$ git clone https://github.com/zacharias1219/audio-deepfake-rawnet2.git
+$ git clone https://github.com/zacharias1219/momenta-assessment.git
 $ cd momenta-assessment
 
 # Install dependencies
