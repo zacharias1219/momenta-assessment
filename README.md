@@ -1,4 +1,4 @@
-# Audio Deepfake Detection using RawNet2 on ASVspoof5
+# Audio Deepfake Detection using RawNet2 on ASVspoof5 (Final Documentation and Analysis)
 
 This repository is a submission for the **Momenta Audio Deepfake Detection Take-Home Assessment**. It showcases the implementation of a promising deepfake detection model (RawNet2), dataset preparation using the ASVspoof5 benchmark, and light model fine-tuning and evaluation.
 
