@@ -150,7 +150,7 @@ Confusion Matrix:
 
 ## 🌐 Submission
 
-> GitHub Link: `github.com/yourusername/audio-deepfake-rawnet2`
+> GitHub Link: `github.com/zacharias1219/momenta-assessment`
 
 All code and data processing are reproducible. Reach out for any clarifications. Thanks for the opportunity!
 
